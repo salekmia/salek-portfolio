@@ -22,10 +22,14 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: 140px;
 }
 
 .half-width {
     width: 50%;
+}
+
+.half-one {
     padding-left: 5%;
 }
 
@@ -43,4 +47,19 @@ section {
     border-radius: 5px;
     display: inline-block;
     margin-top: 20px;
+}
+
+
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.dream-big-heading {
+    font-size: 40px;
+}
+
+.half-two {
+    padding-right: 5%;
 }
